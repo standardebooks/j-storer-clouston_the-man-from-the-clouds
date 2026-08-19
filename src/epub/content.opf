@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-storer-clouston/the-man-from-the-clouds</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-19T17:44:45Z</dc:date>
+		<meta property="dcterms:modified">2026-08-19T17:44:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -36,15 +36,15 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:abstract">During the First World War, a naval officer stranded on a Scottish island suspects it harbors enemy spies.</meta>
 		<dc:description>
-			&lt;p&gt;Roger Merton, a young naval lieutenant from the volunteer reserves, is on a balloon reconnaissance mission with one of the regular officers when their balloon loses its moorings and drifts into the fog. Blown to they know not where, Merton’s colleague bails, while Merton waits until he is more certain of being over land.&lt;/p&gt;
-			&lt;p&gt;When he does parachute to safety, Merton finds he is not in enemy territory, but in one of the islands in the North Sea off the Scottish coast. Still uncertain of the inhabitants, he begins to suspect there may be treachery afoot. But where could German spies be hiding on such a barren island?&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Man from the Clouds&lt;/i&gt; is another early spy thriller, like &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston"&gt;J. Storer Clouston’s&lt;/a&gt; better known &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black"&gt;&lt;i&gt;The Spy in Black&lt;/i&gt;&lt;/a&gt; published the previous year, both during World War I.&lt;/p&gt;
+			&lt;p&gt;Roger Merton, a young naval lieutenant from the volunteer reserves, is on a balloon reconnaissance mission with an officer when their balloon loses its moorings and drifts into the fog. Blown to they know not where, Merton’s colleague bails, while Merton waits until he’s more certain of being over land.&lt;/p&gt;
+			&lt;p&gt;When he does parachute to safety, Merton finds that he’s not in enemy territory, but rather in one of the islands in the North Sea off the Scottish coast. Still uncertain as to who inhabits it, he begins to suspect there may be treachery afoot. But where could German spies be hiding on such a barren island?&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Man from the Clouds&lt;/i&gt; is another early spy thriller, like &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston"&gt;J. Storer Clouston’s&lt;/a&gt; better known &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston/the-spy-in-black"&gt;&lt;i&gt;The Spy in Black&lt;/i&gt;&lt;/a&gt;, both published during World War I.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9852</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664447</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">60761</meta>
+		<meta property="schema:educationalLevel">71.34</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Man_from_the_Clouds" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -81,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
